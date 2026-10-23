@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.class
+.build/
+.tools/
+.DS_Store
+judging-results.json
+official-seed.txt
+
